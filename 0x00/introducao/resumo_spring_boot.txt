@@ -1,0 +1,19 @@
+O Spring Boot é o mais popular Framework de para desenvolvimento de microsserviços. Ele fornece vários projetos de extensão no Spring Cloud, para criar o ecossistema necessário para os microsserviços. Os microsserviços permitem que grandes sistemas sejam construídos a partir de vários componentes de colaboração.
+
+Gerenciamento de dados - o Spring possui vários módulos para integrar facilmente com bancos de dados populares. Spring JDBC, Spring JPA, Spring MongoDB, Spring Apache Cassandra são algumas extensões.
+Estratégias para lidar com falhas - O Spring boot tem uma fácil integração com o Resilience4J. Ele fornece várias funcionalidades para lidar com falhas no sistema distribuído. Circuit Breakers, Retry, Timeout, Rate Limiters, Fallback handler, Bulkheads etc.
+Observabilidade - o Spring Boot Actuator é poderoso, fornece verificação de integridade, visualiza logs, Métricas.
+Estilo de comunicação - o Spring possui recursos para criar aplicativos reativos. É super fácil criar a API de descanso com a ajuda do Spring MVC. É fácil integrar o Spring ao MQ para criar serviços de estilo assíncrono. O Spring também possui um módulo para criar aplicativos baseados em SOAP.
+Integração de camada intermediária - Com a ajuda de vários módulos, o Spring fornece abstração para integração com o Apache Kafka, qualquer AMQP, RabbitMQ, ActiveMQ
+Integração com ferramentas - Consul, Prometheus, Jaeger, Grafana
+Cloud Native - Docker, Kubernetes, OpenTracing, Etcd, DevOps
+Segurança - Spring Security, bom suporte para OAuth2, gerenciamento de sessões, possível criar serviços com e sem estado. Key Vault, padrões de gateway
+Gerenciamento de configuração distribuída - Spring Cloud Config
+Descoberta de serviços - lado do cliente, lado do servidor
+Desempenho - Suporte de captura, balanceamento de carga e cluster com o Spring Cloud Cluster
+Formato de dados de comunicação - JSON, XML
+Teste - Módulo de teste de mola, zombando, criação de perfil
+Curva de aprendizado - Fácil de aprender devido à modularidade
+Novas dependências adicionadas via arquivo pom.xml
+Gosto de utilizar Spring Tools Suite e Eclipse devido a consistência na compilação da aplicação
+O Spring initializr ajuda na configuração inicial de um projeto.
